@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android Version History</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="policy">Android Version latest News History(Dynamic) Android mobile operating system public release of the Android beta on November 5, 2007. The first commercial version, Android 1.0, was released on September 23, 2008. Developed by Google and the Open Handset Alliance (OHA), and it several updates to its base Operating System Android Version designed for know android latest features and realise phone from google, like as</string>
+</resources>
